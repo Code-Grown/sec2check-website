@@ -1,1 +1,0 @@
-import{b as c,e as a,f as n,w as r,r as o,o as l,h as t}from"./entry.a364e6b3.js";const i={__name:"index",setup(p){return(d,e)=>{const _=o("v-icon"),s=o("v-container");return l(),a("div",null,[n(s,null,{default:r(()=>[e[0]||(e[0]=t("h1",null,"Users",-1)),t("span",null,[n(_,{icon:"mdi-home"})])]),_:1})])}}},m=c(i,[["__scopeId","data-v-4609901c"]]);export{m as default};
